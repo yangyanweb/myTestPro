@@ -1,0 +1,7 @@
+练习1：完成修改的前后端功能（网页user_update.html托管静态资源到public目录下,路由接口:post, /update）
+
+练习2：完成列表的前后端功能（网页user_list.html托管静态资源到public目录下,路由接口:get, /list）
+
+练习3：完成删除的前后端功能（网页user_delete.html托管静态资源到public目录下,路由接口:get, /delete）
+
+练习4：参照用户模块，完成商品模块的增删改查功能。
